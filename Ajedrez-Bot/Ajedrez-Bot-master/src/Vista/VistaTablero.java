@@ -9,7 +9,7 @@ import Controlador.Controlador;
 
 /**
  *
- * @author Dani
+ * @author Kalid
  */
 public class VistaTablero extends javax.swing.JFrame {
 
